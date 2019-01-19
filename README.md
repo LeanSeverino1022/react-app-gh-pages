@@ -1,2 +1,5 @@
 # react-app-gh-pages
-Created to test deploying a react application to GitHub-Pages
+Deployed a React App to GitHub-Pages. Used the npm module 'gh-pages'
+
+Project URL -> <https://leanseverino1022.github.io/react-app-gh-pages/>
+
